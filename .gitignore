@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+proyecto_A/venv_1/
+proyecto_B/venv_2/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar notebooks temporales
+.ipynb_checkpoints/
